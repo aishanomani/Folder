@@ -1,6 +1,11 @@
 // Task 1: Variable Declaration
-let employeeName = "Employee Name"; 
+let employeeName = "Jane Smith"; 
 console.log(employeeName);  
+const employeeID = "111-222-3333";
+console.log(employeeID);
+var isActive = true;
+console.log(isActive);
+typeof(isActive);
 
 // Task 2: Arithmetic Operations
 let total = 100 + 50; 
